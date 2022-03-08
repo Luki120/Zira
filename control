@@ -1,0 +1,9 @@
+Package: me.luki.zira
+Name: Zira
+Depends: com.mrgcgamer.libgcuniversal, com.opa334.ccsupport
+Version: 0.9.0
+Architecture: iphoneos-arm
+Description: FOSS clone of PictureModule
+Maintainer: Luki
+Author: Luki
+Section: Control Center (Modules)
