@@ -14,6 +14,10 @@
 * Keep commit titles short and then explain them in comments or preferably in the commit description.
 * If you're a contributor with write access to this repository, you **should NOT** push to main branch, preferably push to a new branch and *then* create the PR.
 
+## Credits
+
+* [opa334](https://github.com/opa334) for making [CCSupport](https://github.com/opa334/CCSupport) and CC modules' examples that show how to change a CC module's size.
+
 ## LICENSE
 
 * [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
