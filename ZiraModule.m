@@ -13,6 +13,9 @@
 	self = [super init];
 	if(!self) return nil;
 
+	NSFileManager *fileM = [NSFileManager defaultManager];
+	if([fileM fileExistsAtPath: kBSC] || [fileM fileExistsAtPath: kPrysm]) return nil;
+
 	ziraContentModuleVC = [ZiraContentModuleVC new];
 	ziraContentModuleVC.module = self;
 
