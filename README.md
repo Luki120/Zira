@@ -1,6 +1,6 @@
 # Zira
 
-* ![Zira](https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/Zira.png)
+![Zira](https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/Zira.png)
 
 ## Socials
 
